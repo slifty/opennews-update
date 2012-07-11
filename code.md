@@ -66,6 +66,11 @@ most important to be cautious.
 <p>The <a href="/hackdays.html">global hack days</a> we're helping to sponsor are producing all sorts of interesting code. Feel free to explore the many projects spawned at OpenNews Hack Days.  
 <div id="hackcode" class="multicolumn">
 <ul id="daycode">
+<li><a href="http://newsquest.me" class="fellowhack">NewsQuest</a>
+<br>Dan Schultz and Laurian Gridinoc have created a choose your own adventure for the news.
+It creates a new way to read stories by asking readers what questions they want answered next.
+Their response helps the system determine what content to show next.
+<br><a href="http://newsquest.me">On the web</a> | <a href="https://github.com/slifty/newsquest">On Github</a> 
 </ul>
 </div>
 
